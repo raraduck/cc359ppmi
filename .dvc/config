@@ -1,0 +1,16 @@
+[core]
+    remote = inst_00
+['remote "inst_00"']
+    url = s3://cc359ppmi/inst_00
+['remote "inst_01"']
+    url = s3://cc359ppmi/inst_01
+['remote "inst_02"']
+    url = s3://cc359ppmi/inst_02
+['remote "inst_03"']
+    url = s3://cc359ppmi/inst_03
+['remote "inst_04"']
+    url = s3://cc359ppmi/inst_04
+['remote "inst_05"']
+    url = s3://cc359ppmi/inst_05
+['remote "inst_06"']
+    url = s3://cc359ppmi/inst_06
